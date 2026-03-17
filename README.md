@@ -36,7 +36,7 @@ npx @openapi-generator/cli generate -i manager-io-api-schema.json -g typescript-
 ## References
 
 - [Manager.io](https://www.manager.io/)
-- [Manager.io API Documentation](https://api.manager.io/)
+- [Manager.io API Documentation](https://manager.readme.io/)
 - [OpenAPI Specification](https://spec.openapis.org/oas/v3.2.0)
 
 ## License
