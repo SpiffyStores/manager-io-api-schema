@@ -10,6 +10,10 @@ This repository contains a modified version of the Manager.io API schema that in
 
 API Version: 26.3.12.3199
 
+## Important Note
+
+The mapping of data attributes to schemas is not fully complete and may be inaccurate in some cases. This is an ongoing effort to improve the schema quality. We welcome any updates, corrections, or improvements from the community. If you find issues or have better mappings, please feel free to submit pull requests or open discussions.
+
 ## Usage
 
 This schema can be used with OpenAPI-compatible tools for:
